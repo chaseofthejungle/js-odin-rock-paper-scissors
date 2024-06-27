@@ -2,7 +2,7 @@
 
 Program prompts for user input through click of a button. Computer input is randomized. Game lasts five rounds, with option to restart game.
 
-Live demo: https://chaseofthejungle.github.io/js-odin-rock-paper-scissors/
+Live Demo: [Click Here](https://chaseofthejungle.github.io/js-odin-rock-paper-scissors/Rock%20Paper%20Scissors/)
 
 **Sample Gameplay:**  
   
