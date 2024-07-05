@@ -8,4 +8,4 @@ Program prompts for user input through click of a button. Computer input is rand
   
 **Preview:**  
   
-![JS Odin Rock Paper Scissors Gameplay](https://github.com/chaseofthejungle/js-odin-rock-paper-scissors/blob/main/odinrpsdemo.png "JS Odin Rock Paper Scissors Gameplay")
+![JS Odin Rock Paper Scissors Gameplay](https://github.com/chaseofthejungle/js-odin-rock-paper-scissors/blob/main/odinrpsdemo.png "JS Odin Rock Paper Scissors Preview")
