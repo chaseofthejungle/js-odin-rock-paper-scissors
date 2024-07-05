@@ -2,7 +2,7 @@
   
 **Description:**  
   
-Program prompts for user input through click of a button. Computer input is randomized. Game lasts five rounds, with option to restart game.  
+Program continuously prompts user to click one of three buttons (rock, paper, or scissors) until player or randomized AI wins. Game lasts five rounds, with option to restart game.  
   
 **Live Demo:** [Click Here](https://chaseofthejungle.github.io/js-odin-rock-paper-scissors/Rock%20Paper%20Scissors/)  
   
